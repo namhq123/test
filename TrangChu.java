@@ -1,1 +1,6 @@
 viết thêm code hoặc thêm các file.....
+
+public void init(){
+
+    ...........
+}
